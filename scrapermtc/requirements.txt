@@ -1,0 +1,6 @@
+beautifulsoup4
+pyinstaller
+requests
+tqdm
+selenium-wire
+python-dateutil
